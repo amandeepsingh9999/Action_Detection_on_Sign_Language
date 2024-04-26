@@ -34,7 +34,7 @@
                  "testing
 
 # Imported Libraries
-'''
+```
 import math
 import streamlit as st
 import time
@@ -42,5 +42,5 @@ import cv2
 from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 
-'''
+```
 
