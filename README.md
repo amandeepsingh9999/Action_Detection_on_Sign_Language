@@ -11,6 +11,8 @@
 # How can anyone use this code
 - Go to pages directory for Creating your ouwn images and running it in your Environment i have mentioned that version of each libraries i have used
 - After you are  done with image collection [Create your model here ](https://teachablemachine.withgoogle.com/)
+- Create class name same as what sign you are putting it.
+- Download the model and test it in code provided in pages testing
 
 # Methodology - 
 
