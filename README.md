@@ -8,7 +8,9 @@
 2. ISL alphabets derived from British Sign Language and French Sign Language alphabets
 3. Unlike its american counterpart which uses one hand, uses both hands to represent alphabets.
 
-##
+# How can anyone use this code
+- Go to pages directory for Creating your ouwn images and running it in your Environment i have mentioned that version of each libraries i have used
+- After you are  done with image collection [Create your model here ](https://teachablemachine.withgoogle.com/)
 
 # Methodology - 
 
