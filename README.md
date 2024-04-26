@@ -11,7 +11,7 @@
 # How can anyone use this code
 - Go to pages directory for Creating your ouwn images and running it in your Environment i have mentioned that version of each libraries i have used (Pressing s can save your images in path you have given )
 ##
-![Images Creation](pages/Images/Screenshot_20240426_111410.png)
+![Images Creation](pages/Images/Screenshot_20240426_111410.png | width= 100)
 ##
 - After you are  done with image collection [Create your model here ](https://teachablemachine.withgoogle.com/)
   ##
