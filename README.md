@@ -9,12 +9,20 @@
 3. Unlike its american counterpart which uses one hand, uses both hands to represent alphabets.
 
 # How can anyone use this code
-- Go to pages directory for Creating your ouwn images and running it in your Environment i have mentioned that version of each libraries i have used
-- ![Images Creation](pages/Images/Screenshot_20240426_111410.png)
+- Go to pages directory for Creating your ouwn images and running it in your Environment i have mentioned that version of each libraries i have used (Pressing s can save your images in path you have given )
+##
+![Images Creation](pages/Images/Screenshot_20240426_111410.png)
+##
 - After you are  done with image collection [Create your model here ](https://teachablemachine.withgoogle.com/)
+  ##
+![Teaching your maodel](pages/Images/Screenshot_20240426_111611.png)
+  ##
 - Create class name same as what sign you are putting it.
 - Download the model and test it in code provided in pages testing
-
+- Now run the code Named tesing in pages folder
+##
+![Testing your model](pages/Images/Screenshot_20240426_111817.png)
+##
 # Methodology - 
 
 ### Step - 1
