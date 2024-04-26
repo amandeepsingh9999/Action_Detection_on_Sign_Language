@@ -13,4 +13,4 @@
 # Methodology - 
 
 ### Step - 1
-1. - So we are trying to create a web app that will help our friend that are specially disabled ,who cannot hear so they uses sign language so we will detect their hand gesture and make our communication easier
+- So we are trying to create a web app that will help our friend that are specially disabled ,who cannot hear so they uses sign language so we will detect their hand gesture and make our communication easier
