@@ -14,3 +14,10 @@
 
 ### Step - 1
 - So we are trying to create a web app that will help our friend that are specially disabled ,who cannot hear so they uses sign language so we will detect their hand gesture and make our communication easier
+- So we will start with American Standard Sign Language and create our data
+
+### Step - 2
+- So we will be creating our hand sign data based on ASL(American Standard Sign Language), That will be our first step for Achieving ISL because ASL uses one hand gesture that will be easy for us
+- After we have created our data based on ASL and training our model has been complete then only we will be moving towards ISL
+
+
