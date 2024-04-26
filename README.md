@@ -20,4 +20,27 @@
 - So we will be creating our hand sign data based on ASL(American Standard Sign Language), That will be our first step for Achieving ISL because ASL uses one hand gesture that will be easy for us
 - After we have created our data based on ASL and training our model has been complete then only we will be moving towards ISL
 
+### Step - 3
+- We'll look at the sign language data and figure out what parts are important for recognizing gestures. This might include things like where the hands are moving and how fast they're moving.
+
+### Step - 4
+- We'll pick the best ways to teach the computer to recognize sign language gestures. This might involve using fancy math and algorithms or just lots of examples.
+- We have to use enough examples for our this process
+
+### Step - 5
+- Now we will test our trained model which is prepared on images we have clicked so now we will 
+                 test it out in out **test.py** 
+- After we have tested our data on user input in ASL we will be continue to ISL data creation and "
+                 "testing
+
+# Imported Libraries
+'''
+import math
+import streamlit as st
+import time
+import cv2
+from cvzone.HandTrackingModule import HandDetector
+import numpy as np
+
+'''
 
