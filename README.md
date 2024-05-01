@@ -56,4 +56,6 @@ from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 
 ```
-
+cvzone -- 1.5.6
+tensorflow -- 2.9.1
+streamlit -- 1.33.0
