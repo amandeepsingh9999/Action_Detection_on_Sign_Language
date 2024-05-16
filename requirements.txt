@@ -1,5 +1,6 @@
 streamlit_lottie
-opencv
+opencv-python-headless
+opencv-python
 tensorflow==2.16.1
 mediapipe==0.10.11
 cvzone==1.5.6
