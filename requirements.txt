@@ -1,0 +1,5 @@
+cv2
+tensorflow==2.16.1
+mediapipe==0.10.14
+cvzone==1.6.1
+streamlit
