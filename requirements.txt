@@ -1,5 +1,6 @@
 streamlit_lottie==0.0.5
-opencv-python
+opencv-python==4.9.0.80
+opencv-contrib-python
 tensorflow==2.13.1
 mediapipe==0.10.11
 cvzone==1.6.1
