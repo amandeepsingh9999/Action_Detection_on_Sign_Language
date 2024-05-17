@@ -1,1 +1,5 @@
-
+opencv-python
+meadiapipe
+tensorflow
+cvzone
+streamlit_lottie
