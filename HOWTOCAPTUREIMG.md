@@ -1,5 +1,5 @@
 # So this is how to save images
-##
+
 specify the folder you have to save in , i prefer it folder to named as Images which will be along side of datacollection program 
 ## 
 so when you run datacollection in your environment you can create all alphbets inside the image folder like in below code so when it will be rough to create all alphabets folder so you can feel free to optimize the code using os module
